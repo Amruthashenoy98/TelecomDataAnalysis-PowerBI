@@ -1,4 +1,16 @@
-## This is a Power BI project on Telecom Customer & Agent Behavior Analysis.
+## Project Overview
+This project involves creating a Power BI dashboard for Claire, the Call Centre Manager at PhoneNow. The goal is to provide a comprehensive and visually appealing overview of key performance indicators (KPIs) and metrics related to the call center's operations. The dashboard is designed to help Claire and her team gain insights into various aspects of call center performance, such as:
+
+- Overall Customer Satisfaction: Tracking customer feedback to gauge satisfaction levels.
+- Call Handling: Monitoring the total number of calls answered and abandoned.
+- Call Timing Analysis: Analyzing call distribution across different times of the day.
+- Response Efficiency: Measuring the average speed of answer to ensure timely responses.
+
+### Tools Used:
+Microsoft Power BI
+
+### Data source
+Forage Virtual Internship PWC Switzerland (.xlsx format)
 
 ### Home page
 ![image](https://github.com/user-attachments/assets/a88dd8eb-92e8-4d42-835e-119001914661)
